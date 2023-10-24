@@ -28,6 +28,7 @@
                         <img src="" alt="" class="img-product" id="file-preview" />
                         <input type="file" name="image" accept="image/*" onchange="showFile(event)">
                     </div>
+                    
                     <div>
                         <label>Category</label>
                         <select name="category">
